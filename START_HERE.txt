@@ -1,0 +1,56 @@
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   🎉 NEXT.JS AUTHENTICATION TIZIMI TAYYOR! 🎉                ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+
+📋 QISQA YO'RIQNOMA:
+
+1️⃣  Development server ishga tushiring:
+    
+    npm run dev
+
+2️⃣  Brauzerda oching:
+    
+    http://localhost:3000/login
+
+3️⃣  Login qiling:
+    
+    Username: emilys
+    Password: emilyspass
+    
+    (Yoki "🚀 Tez login" tugmasini bosing!)
+
+✅ NIMA ISHLAYDI:
+
+✓ DummyJSON API bilan login (username/password)
+✓ Session management
+✓ Protected home page
+✓ User profile ko'rsatish
+✓ Logout funksiyasi
+✓ Responsive dizayn
+
+⚠️  GITHUB VA GOOGLE:
+
+GitHub va Google login ishlashi uchun OAuth sozlash kerak.
+Batafsil: SETUP.md faylini o'qing.
+
+📚 FAYLLAR:
+
+- QUICK_START.md  → Tezkor boshlash
+- README.md       → To'liq dokumentatsiya
+- SETUP.md        → OAuth sozlash yo'riqnomasi
+
+🎯 TEST UCHUN USERLAR:
+
+emilys / emilyspass
+michaelw / michaelwpass
+sophiab / sophiabpass
+
+Barcha userlar: https://dummyjson.com/users
+
+═══════════════════════════════════════════════════════════════
+
+Hoziroq boshlang: npm run dev
+
+═══════════════════════════════════════════════════════════════
